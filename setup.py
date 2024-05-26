@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='wikipathway2genes',
-    version='0.0.4',
+    version='0.0.5',
     author='Pr (France) Dr. rer. nat. Vijay K. ULAGANATHAN',
     author_email=' ',
     description='A package to convert WikiPathways IDs to genes',
