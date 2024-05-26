@@ -6,14 +6,14 @@ You can install `wikipathway2genes` via pip:
 `$ pip install wikipathway2genes`
 
 ## Usage
-Extract variant entries for a specific gene or list of genes from a VCF file.
-<br>usage: `$ wikipathway2genes [-h] -wp WIKIPATHWAY ID`</br>
+Extract gene entries for a specific wikipathway.
+<br>usage: `$ wikipathway2genes [-h] -wp WIKIPATHWAY-ID`</br>
 
 ## Examples
-Extract variants for a single gene using gene name:
+Extract gene entries for the pathway ACE inhibitor pathway (WP554):
 `$ wikipathway2genes -wp WP554`
 
-<i>current version='0.0.4'</i>
+<i>current version='0.0.5'</i>
 
 
 
