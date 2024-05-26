@@ -1,4 +1,3 @@
-Tool to extract genes listed in a given wikipathway
 
 ## Installation
 
@@ -14,7 +13,7 @@ Extract variant entries for a specific gene or list of genes from a VCF file.
 Extract variants for a single gene using gene name:
 `$ wikipathway2genes -wp WP554`
 
-<i>current version='0.0.1'</i>
+<i>current version='0.0.4'</i>
 
 
 
