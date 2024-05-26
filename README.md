@@ -1,3 +1,4 @@
+A tool to extract genes listed in a given Wikipathway
 
 ## Installation
 
