@@ -12,7 +12,7 @@ Extract gene entries for a specific wikipathway.
 
 ## Examples
 Extract gene entries for the pathway ACE inhibitor pathway (WP554):
-`$ wikipathway2genes -wp WP554`
+<br>`$ wikipathway2genes -wp WP554`</br>
 
 A tab-separated file will be written out
 
